@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514983515459",
+    "project_id": "credaqui2-f9925",
+    "storage_bucket": "credaqui2-f9925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514983515459:android:c887273304cd9812e48bf6",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcy0oA1c1gFPU2EmfT07soUA5FgEGpMas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
